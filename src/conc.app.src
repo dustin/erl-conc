@@ -1,3 +1,4 @@
 {application, conc,
  [{description, "Concurrent Lists in Erlang"},
+  {vsn, git},
   {applications, [kernel, stdlib]}]}.
